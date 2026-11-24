@@ -89,7 +89,7 @@ Add `--compact` if the second page holds only Education / Training. The script a
 
 ## Stage 2: Review and rewrite
 
-Act as a **talent acquisition partner and hiring manager** for this role.
+Review the CV in two parts: an **ATS analysis** (2.1), then a **human review by three different readers** (2.2): the recruiter, the hiring manager and a future teammate.
 
 ### Stage 2.1 ATS analysis
 Score each item **1 to 10** (10 = perfect match) in three sections:
@@ -99,11 +99,25 @@ Score each item **1 to 10** (10 = perfect match) in three sections:
 
 Present each section as a table: `Item | Score | Evidence in CV | Suggestion (required if score < 5)`.
 
-### Stage 2.2 Human review
-Act as a **senior HR manager who screens 200 CVs a day**. State:
-- What catches the eye in the first 6 to 10 seconds
-- What gets skipped, and why
-- The single biggest risk of rejection
+### Stage 2.2 Human review (three readers)
+Read the CV three times, once as each reader below. Each reader has one core question: answer it directly first, then give the detail.
+
+**1. Recruiter**: has 30 seconds and 100 CVs today, and reads the top third only (header, Summary, Skills and the opening bullets of the first role).
+- Core question: does the top third put this CV in the yes pile?
+- State: what catches the eye in the top third; what in the top third gets skipped or raises doubt; whether the target title, the key JD keywords and the strongest evidence all appear in the top third; the single biggest risk of rejection at this stage.
+
+**2. Hiring manager**: reads for one thing: can this person do the job on day one?
+- Core question: can this person do the job on day one? Answer yes / partly / no first.
+- Take the JD's main duty areas in the JD's own priority order. For each, give a day-one verdict (ready / ready to start but needs ramp-up / not yet), the CV evidence behind it, and what still worries the hiring manager.
+- Separate duties this role owns from work that belongs to another function (for example, working deals belongs to the sales team, and deciding commission plans belongs to senior management), so the candidate is not marked down for someone else's remit. Check with the candidate when unsure.
+- List the three questions the hiring manager is most likely to ask at interview because of what the CV leaves open.
+
+**3. Teammate**: would work next to this person, and reads for how they work with others.
+- Core question: would I want to work next to this person?
+- Look for evidence of: sharing knowledge and handing work over, working across teams and functions, taking and giving feedback, owning problems and following through, and how they treat the people they support, train or rely on.
+- State: what reads as a good colleague; what reads as a warning sign (for example, every result credited to "I" with nobody else in the room, vague "collaborated with" lines, or management language above the role's level); and one suggestion to show teamwork better using facts the candidate has already confirmed.
+
+End Stage 2.2 with a one-line verdict from each reader.
 
 ### Pass / fail gate
 - **Pass** if more than 80% of all items score above 8, **or** every Section 1 (minimum requirement) item scores above 8. Deliver the final .docx for the candidate's review.
@@ -150,6 +164,6 @@ For domain gaps, use a "same discipline, different domain" answer: name the tran
 
 - [ ] Gap analysis with questions answered by the candidate
 - [ ] CV .docx passing the formatting and ATS checks, visually verified
-- [ ] Stage 2.1 score tables and Stage 2.2 commentary, gate passed
+- [ ] Stage 2.1 score tables and Stage 2.2 three-reader review (recruiter, hiring manager, teammate), gate passed
 - [ ] (On request) cover letter .docx
 - [ ] (On request) interview kit

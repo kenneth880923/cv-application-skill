@@ -3,7 +3,7 @@
 A Claude skill that turns a job description into a tailored UK application:
 
 1. **Stage 1** - JD analysis, gap check against your experience, CV drafting
-2. **Stage 2** - ATS scoring and a recruiter-style review, with a pass/fail gate
+2. **Stage 2** - ATS scoring and a three-reader review (recruiter, hiring manager, teammate), with a pass/fail gate
 3. **Stage 3** - Cover letter (on request)
 4. **Stage 4** - Interview preparation (on request)
 
